@@ -1,2 +1,2 @@
 # supreme-parakeet
-Journey through Java
+My journey through Java
